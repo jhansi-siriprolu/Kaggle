@@ -1,2 +1,2 @@
 # Kaggle
-This repo includes work on gaggle datasets
+Includes Notebooks worked on Kaggle datasets
