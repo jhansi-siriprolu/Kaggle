@@ -1,6 +1,6 @@
 # Kaggle
 Includes Notebooks worked on Kaggle datasets
-## (time-series-analysis-delhi-2.ipynb)[https://github.com/jhansi-siriprolu/Kaggle/blob/53e58833ce99a3343a6ae9e8df8a933bfa61cd37/time-series-analysis-delhi-2.ipynb]
+## [time-series-analysis-delhi-2.ipynb](https://github.com/jhansi-siriprolu/Kaggle/blob/53e58833ce99a3343a6ae9e8df8a933bfa61cd37/time-series-analysis-delhi-2.ipynb)
 Simple Linear regression model built using Delhi climate data.
 The notebook includes the Exploratory Data Analysis, Data Preprocessing.
 Data is split using Time Series cross validation technique.
